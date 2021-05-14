@@ -1132,7 +1132,7 @@ I don't like the assignments. I struggle to do them by myself and I feel like I 
 It's 8 am. Literally the worst. Other than the time the class itself is a blast.,0,wi20
 Deadlines are weird,0,wi20
 "The tedious part of cleaning a set of data, which should be minimized at all cost when building a survey or questionnaire.",0,wi20
-The 8 am lecture,0,wi20
+The 8 am lecture,1,sp20
 "Learning Pandas, manipulating data is fun",1,sp20
 The concept of this class,1,sp20
 No midterms,1,sp20
@@ -1510,7 +1510,7 @@ I have enjoyed the flexibility of the class in general and I have enjoyed the su
 "It's application based. I think that is the most important thing. It's nice learning the theory behind it, but trying to come up with a project to apply our knowledge really helps us prepare for actual Data Science stuff.",1,sp20
 "lectures are a good timing and style, assignments are alright so far. I like the no tests thing (besides quizzes) ",1,sp20
 The professor really explains things well. The tests are representative of what is in the lecturers. Also splitting up the lectures makes learning the topics easier. The examples we go over in lectures are pretty interesting and shows how what we're doing applies to real life.,1,sp20
-"I like the coding part, cuz using code to solve problems is very cool.",1,sp20
+"I like the coding part, cuz using code to solve problems is very cool.",0,sp20
 Quizzes aren't helpful,0,sp20
 Coding aspect,0,sp20
 the quizzes being kind of hard :(,0,sp20
@@ -1853,7 +1853,7 @@ some topics are difficult,0,sp20
 Suggestion to fix this issue: After this quarter, the Professor will have a collection of videos which explain the topics really well. A possible solution is that some of the less engaging topics can be taught (say the earlier videos about Git and GitHub, some basic programming concepts such as pandas which students can easily pick up through online video and Jupyter Notebook Walkthroughs as well as by looking at the documentation available online) to the students via this medium while lecture time can be used for more engaging material (like going through the assumptions of Linear Regression and t-tests with more thoroughness and perhaps explaining the intuition behind those things, a full example of real-life data science projects etc).",0,sp20
 the quizzes (so many),0,sp20
 Probably having to learn python. Doing for loops and accessing lists in a dictionary is really weird. I was stuck on a1 for a while. I kept trying to solve things in java,0,sp20
-"I don't really like the data analysis part, because it's harder to understand for me.",0,sp20
+"I don't really like the data analysis part, because it's harder to understand for me.",1,fa20
 "Final project , l always wanted to analyze data I want",1,fa20
 "I liked learning about Python and Jupyter Notebook. These are technologies I had no knowledge of prior to this course, and it is very interesting to learn the basics of these technologies.",1,fa20
 The group project since I could work with my team.,1,fa20
@@ -2148,7 +2148,7 @@ Group Project,1,fa20
 The lectures are interesting,1,fa20
 I've really liked being able to code again as the Cogs department is rather sparse in coding courses.,1,fa20
 The assignments,1,fa20
-The videos are the perfect length for understanding concepts,1,fa20
+The videos are the perfect length for understanding concepts,0,fa20
 Assignment is kind of difficult to me. I never learned how to google some concepts,0,fa20
 "Honestly, I am not a huge fan of remote learning, I would say thats the biggest problem right now. I feel like it takes away from the actual COGS 108 experience.",0,fa20
 I'm not familiar with python and panda.,0,fa20
@@ -2412,7 +2412,7 @@ Lecture Quizzes,0,fa20
 the quizzes are brutal,0,fa20
 "Nothing so far, maybe the lack of a ""what you missed"" on the assignments. I could also be unaware of that source being available. ",0,fa20
 Probably the amount of videos we have,0,fa20
-I haven't liked the change due dates for Assignments on Datahub,0,fa20
+I haven't liked the change due dates for Assignments on Datahub,1,wi21
 "I enjoy about learning python. I think learning pandas package enable me to clean my data in more efficient way. Also, I achieve a better tool to express my data, when I learned data visualization.",1,wi21
 Mainly being able to explore the field of data science and tools to work with and analyze real data out there in the world. I think it's cool to be able to work with the data to be able to deduce interesting stats or facts that are not easily seen without tools.,1,wi21
 Coding is funny,1,wi21
@@ -2727,7 +2727,7 @@ learning about python because I didn't know much going in,1,wi21
 Doing the Discussion question,1,wi21
 I've enjoyed the Assignments the most. I feel like I'm learning as I walk through them.,1,wi21
 The clear lectures! They're easy to follow and introduces the topics well.,1,wi21
-Learning how to incorporate data science into our lives,1,wi21
+Learning how to incorporate data science into our lives,0,wi21
 "I really did not enjoy learning ethnic part. Although I think it is a very important topic, I still think it is kind of boring. I am glad the rest lectures are amazing and engaging.",0,wi21
 "Since I have to say something I guess it'll be that it can be a little confusing to know what exactly the assignments are asking for in some questions, or what specific method it wants us to use and how.",0,wi21
 PDF lecture notes should be put on Canvas,0,wi21
@@ -3031,4 +3031,485 @@ All the office hour is kinda early in my time zone.,0,wi21
 The process for figuring out the problems,0,wi21
 "I don't learn a lot from the discussion sections, and it always feels like there's not enough time to cover everything. ",0,wi21
 The discussion sections have been a bit vague for me and I often struggle with getting through it. ,0,wi21
-The amount of coding :/,0,wi21
+The amount of coding :/,1,sp21
+Learning the basics of python,1,sp21
+The assignments are really helpful in practicing python skills,1,sp21
+the professor's enthusiasm- it makes watching the lectures fun,1,sp21
+the assignment and the lab; able to practice using python,1,sp21
+"I enjoyed working on the datahub assignments, they give good practical skills",1,sp21
+"What I've enjoyed the most about COGS 108 has been the overall subject matter. This is one of my first upper division courses, and just being able to work and learn about a subject which isn't something simply required or foundational for my other courses is very liberating.",1,sp21
+I think the assignments and discussion labs helped me a lot in reviewing the content!,1,sp21
+Learning to blend coding with research/analytical thinking.,1,sp21
+Live Jupyter notebook demonstrations using interesting examples! Helps me learn in an interactive way.,1,sp21
+Group Project which we have to work very hard with our teammates.,1,sp21
+I enjoyed the lectures and the mini clicker questions on Zoom.,1,sp21
+Learning how to use Pandas,1,sp21
+utilizing functions learned from class to solve my assignments.,1,sp21
+Weekly discussion practices! Plus the option to be walked through it because otherwise I'd spend many hours on them. It helps keep on top of the coding development throughout the quarter while lectures are very concept based and the code skimmed over is getting progressively more complicated.,1,sp21
+"I've enjoyed the pacing of the lectures, and Professor Ellis's teaching style during the lectures.",1,sp21
+I think I have enjoyed the labs the most as they provide the most insight regarding the course.,1,sp21
+"I have enjoyed learning about data visualization and analysis so much because it can be so applicable to me in a research setting when trying to preprocessing data, visualizing the data, and analyzing the data with EDA. I also like the consistent checkups on our group projects.",1,sp21
+"I've enjoyed the project component of COGS 108 the most so far. Thinking of a meaningful research question and then planning out how I and my group would go about answering that question is something I find rewarding. I've wanted to conduct independent investigations of data for a while now, but lacking a structured way to do it has partly held me back. Thankfully, I've been able to leverage some of the COGS 108 material about drafting a research question to achieve this goal.",1,sp21
+I enjoyed meeting with my groups. Gives me a chance to talk to others since with covid it gets pretty hard to meet new people,1,sp21
+I enjoy the lecture contents. I enjoy learning about GitHub as I am much more comfortable with it now compared to the beginning of the class.,1,sp21
+"This is my first data science class so all these new concepts are very interesting to me. I like how all duedates are on friday, which makes it super easy to remember what I have to do for this class. All the resources on Github repo and the templates for our final project are also very helpful. Since it is a big project, its nice that we have a lot of guidance and resources to go for help",1,sp21
+I enjoy learning how to read the data and draw conclusions using python and pandas.,1,sp21
+Being able to better learn how to create visualizations using data from CSV files,1,sp21
+I have enjoyed the assignments the most so far because they are a great way to use the skills we learn in class in an applicable setting.,1,sp21
+Seeing how there's coding behind data analysis and that there is code out there that does most of the work for us,1,sp21
+Using example data to analyze in class to demonstrate concepts and practices. It really helps me understand how and why we are doing certain things with the data,1,sp21
+"How to identify the ethic on the the problem and data set we picked, I enjoyed this the most is because it answered the question I had for a long time.",1,sp21
+"I wanted to learn Pandas for a long time, and learning it in this class is great.",1,sp21
+"I have enjoyed learning about pandas the most. I understand its usefulness and appeal to SWE recruiters, and thus I am grateful that I have been able to learn a bit of it.",1,sp21
+I really enjoying working on the coding labs and assignments! pandas is super cool to use and I'm happy I am starting to become more familiar with the methods used. I find it super fun especially compared to my work from other classes.,1,sp21
+The lectures are engaging and interesting; definitely one of my more enjoyable classes.,1,sp21
+how helpful the TAs have been with the lab assignments. I get lost a lot so having their help is amazing.,1,sp21
+The fact that it is project based and that the main assignment due dates are each two weeks a part from each other. This makes it way easier to balance this class with my other classes and not feel rushed in my work.,1,sp21
+"The discussions since they are really hands on, and if I get stuck I can refer to the technical discussion, so they are fun!",1,sp21
+The satisfaction of finally figuring out code that works! This is the best feeling,1,sp21
+"First class back programming in years after my hiatus, so it has been interesting attempting to crash course some python while not having extremely difficult coding problems, and instead using it in more practical situations. Plus this is my first real data related class which is what I eventually would like to end up doing so it is exciting (aside from the pressures of school/life).",1,sp21
+"I guess the organization of this class, this has been the best class i had during remote learning in terms of structure. I LOVE that the due dates are all on friday ranging from quizzes, labs, hw, and project stuff. It keeps me organized since I've been using my planner more this quarter.",1,sp21
+"Maybe the lecture, because data science is new to me, and I feel I learned a lot in every lecture.",1,sp21
+The technical discussions are really helpful for me to complete the discussion assignments.,1,sp21
+"Discussion assignments, very helpful when doing Assignments",1,sp21
+Learning hands on skills!,1,sp21
+"I enjoy the lectures; they're very straightforward and easy to understand, and I'm learning new things every time!",1,sp21
+"The step-by-step Jupyter notebook assignments (i.e., discussion lab + assignments). The Jupyter notebooks are extremely helpful for teaching me how to code in a step-by-step, *explained* process. I really like this format compared to previous coding classes.",1,sp21
+"So far, I've enjoyed learning the programming from this class",1,sp21
+"I've enjoyed the group work aspect of COGS108. I love working with my group over an extended period of time to work towards a goal that we all share. Moreover, collaboration on a scale this big is sometime that's new to me, as this is the first class that I've worked on a project with group members.",1,sp21
+Groupwork! Especially in pandemic with no one to talk to. And TA's technical hours are super helpful!!!,1,sp21
+I liked how the class is set up so you do not fall behind especially with the project,1,sp21
+"The first things that come to mind are the structure of the lectures and the assignments. For the lectures, I enjoy that we have corresponding Jupyter notebooks that we can follow along with. Also, the regular clicker questions keep us engaged in the lecture and encourage us to think about the concepts we cover.
+
+I like that all assignments and labs are guided: we aren't just told to do something. We are given some level of hints and direction, and we have asserts to check our code. I think this is very important since many of us are new to this area. This approach ensures that we still must apply what we have learned (and also gives us practice using API references), while minimizing frustration and the likelihood of becoming stuck and unable to complete the assignments.",1,sp21
+"I really enjoyed the neat little tricks that this class teaches using the different python libraries. It's refreshing to have a class where students are taught how to use libraries to their advantage (like in the labs) and I think it's really applicable to the future, even if you don't major in cs or data science.",1,sp21
+The visualization aspect,1,sp21
+I enjoy the hands-on experience we are getting in regards to the general direction a data science project should go.,1,sp21
+Jupyter assignments have been informative,1,sp21
+The overarching review of the process of data science is very clarifying.,1,sp21
+"I think the instructions are much clearer than most other coding classes I've taken here and at UC Merced, not saying those were bad - but I really appreciate the organization of the class and the ease of access to resources for help.",1,sp21
+Coding,1,sp21
+I got used to Python and Pandas.,1,sp21
+Revisit Pandas,1,sp21
+Revisit Pandas,1,sp21
+I enjoyed writing assignments as I think they are good practices.,1,sp21
+"How to use python to coding and analyze data,",1,sp21
+technical discussion really helps to explain coding parts,1,sp21
+I enjoy working on the project a lot. I found a wonderful group whose members I wouldn’t have known otherwise if not for the class!,1,sp21
+"I like the interactive Lectures, working with the Juypter Notebook together is a great way to learn",1,sp21
+"Working on the research project, the topic is super interesting and its good practice using Pandas",1,sp21
+The lectures and working through python,1,sp21
+I love the way professor ellis answers all of our questions genuinely without making people feel like they were silly and the examples used to demonstrate the concepts we learn. Both of these have made learning coding and data science much less intimidating and more fun to learn!,1,sp21
+I have enjoyed lecture and my groupmates the most so far. Prof Ellis does a really good job at keeping information interesting and engaging and she makes it easy to ask questions. Most of my groupmates are easygoing and fun to talk to so it is fun to meet with them.,1,sp21
+The discussion assignments,1,sp21
+"Learning how to apply principles of data science (wrangling > cleaning > testing) to data gathered in the ""real world"" rather than just crafted sets handed to us.",1,sp21
+Learning new tools to explore and visualize data because it will help me with future projects.,1,sp21
+Talking with my group members,1,sp21
+I really like messing around and using git and github. Its new and refreshing for a COGS class.,1,sp21
+The labs because they are very helpful in understanding how to apply what we have been learning,1,sp21
+"Professor's clearly invested in her students and wants them to learn. Most helpful part is the discussion assignments, I feel like I'm actually learning by doing vs just listening to lecture.",1,sp21
+I have found the labs and assignments to be quite enjoyable. The datasets are interesting and the manipulations we are doing on them/the visualizations we have been creating thus far are fun and a good way to learn.,1,sp21
+Learning about different data wrangling methods,1,sp21
+"chill class, not too stressful but also learning, very engaging lectures, prompt posting of material and uploads of zoom recordings, prof is on top of it",1,sp21
+"I have enjoyed working on the group project because we picked a very interesting and relevant topic and I am excited to see what our results will be. Also, it is nice to be able to connect with students in the course.",1,sp21
+"I really enjoy how much help we are able to get every week. Additionally, I feel as though the labs and the assignments have helped me get a better grasp on the material. I am able to understand the code a lot more when I'm required to use it in the labs and the assignments. I also enjoy Professor Ellis' teaching. It's been pretty engaging so far, the quizzes are fair, and I feel like she's been very reasonable and understanding when it comes to the course and students' varying abilities.",1,sp21
+"So far in COGS 108, the part that I enjoy the most are the various case studies and examples that are presented in lecture. I feel like they display examples of how the skills we learn in class can be applied to a wide variety of situations.",1,sp21
+The structure of the class is nice and allows me to be flexible. I really enjoy how open ended the project is going to be (hopefully).,1,sp21
+I think the content of this course is pretty useful especially for those who had no idea about the data science. TAs are very active and responded my question every time.,1,sp21
+I have enjoyed learning about all the different things that the Python libraries can do. It's amazing that a single line of code can generate these diagrams/graphs.,1,sp21
+Contents are very useful: practices are helpful,1,sp21
+"I feel like the lectures are pretty engaging, both in terms of the content as well as participation.",1,sp21
+Professor Ellis's organization of the class deadlines and lecture topics is very helpful in learning and not being overwhelmed by what could be a chaotic/intimidating course.,1,sp21
+I've been enjoying learning about all the different things you can do with data/Python!,1,sp21
+I have enjoyed doing the discussions. It is a low-risk way to make sure that I am understanding the material for the week! Help is also easily accessible with the recordings of the technical discussions.,1,sp21
+"How the checkpoints work for the projects, it helps to have some deadlines along the way to get a good timeline of when to work.",1,sp21
+Learning about how to organize data . I really liked how there were labs and quizzes every week which helped me a lot to review every lecture materials.,1,sp21
+The class is really interesting that bring me a lot of useful tool in data analysis. The examples are closed to our life.,1,sp21
+Handling large data sets,1,sp21
+The discussion labs . The 2 IAs are super helpful in troubleshooting and helpful in clearing doubts,1,sp21
+The discussion labs . The 2 IAs are super helpful in troubleshooting and helpful in clearing doubts,1,sp21
+I’ve enjoyed learning how to make visualizations through the content taught in lecture and the demonstrations on how to implement the code during discussion sections.,1,sp21
+I have really enjoyed learning about Version Control and Data along with the common manipulations of pandas.,1,sp21
+Doing the Assignments,1,sp21
+Currently I really enjoy the concepts and the discussion labs. I find the concepts really interesting. For example I like how data science can be used with coding to answer interesting questions. I also think that the discussions to be very information and helpful when it comes to doing the homework and group project.,1,sp21
+"I have enjoyed the lectures the most so far. They are interesting and easy to follow! I like Professor's Ellis examples and explanations, they make the dense material easy to understand!",1,sp21
+the assignments! I think I learn a lot through them,1,sp21
+I have enjoyed Professor Elis' energy in her lectures.,1,sp21
+The labs,1,sp21
+How passionate Prof Ellis sounds when teaching!,1,sp21
+I like the discussion labs; practicing the concepts in small batches each week really sets us up nicely to complete the assignments,1,sp21
+Being able to learn how to use Jupyter Notebooks and cells,1,sp21
+Working on the project and learning about the chosen topic.,1,sp21
+Weekly assignments are manageable and well-spaced.,1,sp21
+The class materials are pretty useful for hw and assignments. Examples used are interesting.,1,sp21
+Very straightforward with the assignments and lectures,1,sp21
+I have liked learning about pandas. This is my last ge class and I am happy to be able to program in a ge class.,1,sp21
+Learning how to code in Python and how you can use it to sort and manipulate data information.,1,sp21
+It's been super fun to learn how to code in Python and how to utilize all the functionalities that come with the different packages. It has also been cool to learn how to organize and analyze big data sets using code.,1,sp21
+I like the format of the hw and discussions. Very easy to work with and learn from.,1,sp21
+Personally I enjoyed learning data visualization the most.,1,sp21
+I enjoy learning how to clean data and visualize data more effectively.,1,sp21
+"What I enjoyed most about COGS 108 is that our projects hold actual significance in terms practical work. This is opposed to the traditional classes where we study and take exams. In this class, we create a project that is also useful for others.",1,sp21
+"I enjoy the lecture format, I think the organization and pacing is perfect. The data we analyze is interesting as well.",1,sp21
+The lectures are fairly helpful and Prof Ellis is good at explaining things for people who aren't familiar with data science,1,sp21
+"What i have enjoyed most about COGS 108 is the weekly quizzes that we have, it helps to stay on track with what's going on in class. I think making the final project as group project is helpful to divide work amongst people and not just for one person so it won't seem like a giant workload.",1,sp21
+I've enjoyed the assignments a lot actually! I originally really struggled with coding and it's nice to see that my hard work is paying off and the mistakes I'm making are small and not understanding errors,1,sp21
+"COGS 108 helps me to know more about data science since this is my first data science course in UCSD. It helps me to know more about the ethical responsibility of being a data scientist and bringing a good question in the beginning is important as well as find a best model to analysis the data. I enjoyed all the real topic around our life or the possible solution we could use data science to find answer for and make people’s life better. However, I feel like it is hard to get a 100% authentic database when it comes to the personal information or opinion. But some of the severe social problem need people’s opinion on it so that we can make change to it. It is hard to make adjustment when the analysis based on the data of “biased reality”.",1,sp21
+having examples in labs so we can learn through it and not have to google everything for 3 hrs,1,sp21
+"simplicity, all the assignments are straightforward, and I'm actually learning what all the buzz words that popped up in my courses mean.",1,sp21
+"I enjoy how I am able to quickly learn the material from the lectures, but also use the internet to learn more.",1,sp21
+I think the lectures are very interesting and keep me engaged.,1,sp21
+"I enjoyed most of the demonstrations used with Python. I am able to learn the basics of exploratory data analysis, and being able to do weekly assignments makes the workload doable each week, instead of very few big assignments. The checkpoints for the group project is also helpful to keep us on track.",1,sp21
+"I think the lectures are paced well at a speed that always keeps my attention, and I like the numerous examples we go over in class. I also like how the examples involve topics that are understandable and relatable to what I would know as a college student.",1,sp21
+This class is a great refresher for reading statistics and review terms. I also enjoy working with my teammates on the project. There is no stress about the midterms.,1,sp21
+enjoy to work with my group,1,sp21
+The thing I have enjoyed the most about the class is the discussion labs. I feel like they are a good way for me to experiment with concepts we learn in class without having to worry about missing any points.,1,sp21
+I really enjoy the discussion sections and assignments. Since I have the answer I feel more comfortable taking the time to understand and play with the code.,1,sp21
+programming assignment,1,sp21
+Learning python,1,sp21
+"I enjoyed how we use the python libraries to do the Data Analysis, and even though we are taking a remote class, I still have a group to working on our project. That's wonderful.",1,sp21
+I enjoy every thing relate to Data Science and the concept of COGS 108.,1,sp21
+Your presentation style is very engaging and educational and I appreciate how you cover so many aspect of data science which are typical in real world applications,1,sp21
+I think the weekly discussion labs are really useful to get hands on practice for the project.,1,sp21
+Data visualization,1,sp21
+I have enjoyed learning more about packages in Python and improving my Python programming skills. I have done research in R and it's been very fun and interesting learning about data science in Python now.,1,sp21
+"labs, lectures, sentiment analysis",1,sp21
+"I like that the lecture information is presented in a way that's easy for me to grasp. I am not the strongest coder but everything new that's used is thoroughly explained and given use case examples and walk throughs. I also like that how the uses and analysis of data are related back to real world examples. The technical discussion are also v helpful to me, S/O to the IAs! :-)",1,sp21
+Doing my group project. I really like the people I work with and it's fun to think through the challenges we are facing.,1,sp21
+"I like learning about data ethics and privacy, and its importance! I also have enjoyed the lectures since they are pretty interesting, and technical but also applicable to real life.",1,sp21
+I like the talk about data science ethics,1,sp21
+I like Professor Ellis's energy during lecture and how she explains the topics. She makes the class enjoyable to learn.,1,sp21
+Challenging myself to learn the content and not getting frustrated with myself because I have barely any coding experience and I find it quite hard.,1,sp21
+I liked learning about how we can actually use the knowledge we learned so far and putting it into a real world project. I've also liked learning about what data ethics is and what is the proper way to use datasets we find.,1,sp21
+I enjoyed learning about different python packages to make visual aids and graphs.,1,sp21
+I enjoy the assignments only cuz they challenge me to use my limited coding knowledge and solve problems that we have been studying in the past.,1,sp21
+The lectures and the labs/assignments. I really enjoy learning and improving my ability to code. I think the lectures have been very entertaining and have been a nice way to start my morning. They cover a variety of data science topics and are enjoyable to listen to. I also am enjoying the labs and assignments because they are allowing me to apply the concepts I've learned in class.,1,sp21
+"Professor And TAs are all great and happy to answer all our questions, which makes me feel safe to make mistakes. lol~",1,sp21
+Everything is really structured. I like how every week we learn more that we then work on for our final project to slowly get closer to answering the research question. The discussion labs and technical discussions are really useful to understand the application of what we learn.,1,sp21
+Professor's teaching style and engagement with students.,1,sp21
+"I am taking a statistics class right now, so seeing some applications and common concepts in this class has been neat. It really helps me learn in both classes.",1,sp21
+"So far, I've enjoyed working on the group project which has really, given us the chance to collaborate as well as, interact with other students in this class, especially when everything is virtual and I miss the classroom interaction. I also like the fact that all the submissions are well spaced out to give us a good amount of time to complete things.",1,sp21
+learning more about pandas and dataframes specifically. I know theyre very useful and efficient. Ive used them for other courses before so its always nice to learn more cool things that can be done with them.,1,sp21
+"Doing the assignments on datahub, I really enjoy the hands-on practice based on the course material. I feel like this format allows me to learn quickly and a wide range of new material.",1,sp21
+We have weekly meeting and I've enjoined working and discussing with my team mates.,1,sp21
+I think the demonstrations in class using jupyter notebook were interesting and caught my attention.,1,sp21
+The discussion labs are helpful for assignments and our project.,1,sp21
+I've enjoyed getting a chance to code and see statistics come to life through graphs generated in the jupyter notebook assignments. This is my only programming class this quarter so it's nice to be able to code still.,1,sp21
+"I enjoy learning digestable chunks of information (in this case learning data science). I really enjoy how you structured the class and while there is a lot to take in, it's not overwhelming! I really enjoyed learning data science so far and if I had known about it sooner I might've delved more into it!",1,sp21
+Love that the material doesn't go by so fast that it's hard to understand what's happening. The assignments aren't super time consuming - takes only a few hours at best. Unlike my cse classes that have assignments that take 10-20 hours a week...,1,sp21
+"I learn a lot about how to use sns , pandas, matplot",1,sp21
+"Lectures are extremely well taught - I'm a novice coder but it's been very easy to follow along and understand the skills that are being taught. Prof Ellis never condescends to us for not being experts - she explains things well and answers ALL questions, no matter how simple. As someone coming in from the engineering department, that attitude is much appreciated!",1,sp21
+"I really like how Professor Shannon makes high-quality slides and explain everything very clearly. On top of all, the assignment has been very helpful.",1,sp21
+Professor keeps lectures very entertaining!,1,sp21
+I appreciate how well-structured and laid out the course is and learning some new tools like Jupyter and using pandas. Lectures are also engaging and I enjoy the bird songs in the background. I also appreciate how Prof Ellis is very receptive to student input.,1,sp21
+The lectures are more entertaining than most other classes to actually attend.,1,sp21
+The lectures are stimulating and are friendly to people just entering the world of data science.,1,sp21
+The group project emphasis,1,sp21
+The ability to get in contact with the professor and ta's,1,sp21
+straughtforwardness,1,sp21
+"I've enjoyed learning about the different ways we can visualize data and deciding on which visualizations are most appropriate given our data sets. I think this information will be very helpful for not only this project, but also the data science project I'm also working on for COGS 109.",1,sp21
+"I really liked the lecture and how we go through each code in class. Professor Ellis managed to convey information clearly, making it very easy to understand.",1,sp21
+"I have most enjoyed getting to meet new friends, who are now in my group! My favorite technical part of the class is getting to understand how to use incredibly powerful tools like pandas and seaborn.",1,sp21
+Learning how to do visualizations is fun because it's cool to be able to quickly see data in many ways.,1,sp21
+"I've enjoyed the labs and assignments because they are interactive in the sense that I'm writing code and am able to see visualizations of how my data is being formatted / being graphed. I've also enjoyed the lectures a lot because of the surveys through the class period. These surveys keep me engaged throughout class time, are a lot of fun and overall a great idea to do for remote learning.",1,sp21
+"Discussion Lab, enjoy learning new skills",1,sp21
+"Data cleaning, it was very relaxing",1,sp21
+"Data cleaning, I find it super satisfying to grab data and eliminate the garbage while formatting it into such a clean, tidy format. Once it's printed out, it's satisfying to see the perfect shape and all the data values being relevant to the question of interest.",1,sp21
+"The practicality of learning certain python tools instead of focusing too much on theory like in other classes. Also the organization of the course is very good, by keeping material relevant to the final project makes it easier on the students",1,sp21
+Learning about how to analyze data properly,1,sp21
+"Projected-based approach, super helpful technical discussion sessions",1,sp21
+Challenging myself to learn the content and not getting frustrated with myself because I have barely any coding experience and I find it quite hard.,1,sp21
+Lectures,1,sp21
+Sections are very helpful,1,sp21
+"I enjoy learning about Pandas and using it. I think it is hard for me to learn programming, like trying to understand what I can even do with pandas and use it on actual data.",1,sp21
+Learning data science and statistics has been interesting and fun. The group project has been a great way to get hands-on experience with the subject.,1,sp21
+Lectures,1,sp21
+I enjoy the lectures and the layout and how it's very easy to follow.,1,sp21
+"API and web scraping.
+It is very useful to get information I want on the Internet.",1,sp21
+"I love the professor. She is so fun and sweet and understanding. Literal breathe of fresh air. Though it is super early in the morning, I find her voice so soothing. The TA's are super amazing too, and I feel this class teaches a lot while also not being overwhelming.",1,sp21
+"Just the overall data science on how it is used, what is used for, etc.",1,sp21
+"I enjoyed being able to apply python learning into data visualizations. I have little experience in python, but I like that I am able to see practical use in coding throughout this class. I also enjoy working on a group project and being able to test our own research question/hypothesis, and also study and analyze data that we find on our own.",1,sp21
+I've enjoyed learning in the discussion labs about how to analyze data at a coding level. It is sometimes simple coding but also very efficient and beneficial when analyzing data.,1,sp21
+"This was my first class that worked with data this way, and with such a hands on experience with working with datasets of our choosing. It has been great learning about the different tools that pandas provides and really being able to understand and use them.",1,sp21
+"The data analysis that is explained in class, because it has really helped me learn more about data science and practices within the field.",1,sp21
+I've enjoined learning Python. Feel like I'm getting a good grasp of the syntax and becomign comfortable w/ the language.,1,sp21
+The ability to slow down your lectures and use git for my other classes now is pretty cool.,1,sp21
+The assignments because it is a fun and challenging assignment,1,sp21
+Learning practical skills about data analysis,1,sp21
+I think the class is structured really well around questions that are interesting and relevant to our society today. This contextualization is great because I think I take in information better when I can see (and actually take) the next step in applying the material learned in class.,1,sp21
+I've really enjoyed the hands on practice we do with the content we are learning in class.,1,sp21
+I like all the discussion datahubs because they help us go over material covered in class.,1,sp21
+"The project is actually fun, we're trying to find some data on Bitcoin and Dogecoin which I am very interested in.",1,sp21
+Working on the asssignments is very helpful and so is the professor,1,sp21
+"I've enjoyed the practical aspect of using real life data to answer questions. In particular, I found the example involving analyzing sentiment from song lyrics quite interesting.",1,sp21
+i have enjoyed the vibes and explanation style. very comforting.,1,sp21
+Not much at the moment but I do like the teaching skills professor.,1,sp21
+Discussion lab videos - lectures are clear - Assignments are not too bad - Working on the final project has been a little fun,1,sp21
+I enjoy learning about Python and how to use it for my career. It helps me prepare for future work.,1,sp21
+Utilizing real world tools that I might use when I enter the workforce - e.g. pandas/matplotlib/maybe seaborn,1,sp21
+"I think pandas is really useful, and the discussion of ethical issues was interesting.",1,sp21
+Working on the group project -- getting to actually find data and perform data science related manipulations on it has been really interesting and fun.,1,sp21
+I've enjoyed meeting the people who are in my project group and having people to go to for help.,1,sp21
+"I absolutely love the overall application of Data science to general problems while still dealing with the important/difficult topics in the discipline! I had a huge issue with one of my CSS classes that didn't really account for different styles of learning/levels of ability, and it was an absolutely trainwreck for me that I barely survived. This one is great because there's so many ways to understand a concept and I love seeing it briefly in code! (The last class only had the TA code).",1,sp21
+I really enjoy in-class polls and example data sets in notes. Interesting data makes me pay attention a lot better and in-person polls are helpful in testing my knowledge of the notes!,1,sp21
+Improving knowledge in python coding,1,sp21
+The assignment. I can apply what I have learnt and solve problems.,1,sp21
+Python was easier to grasp than expected.,1,sp21
+Learning how to work with data,1,sp21
+It challenges me and I usually like a challenge.,1,sp21
+"Lectures are very clear, informative and just straight to the point. Prof. Ellis explains every concept very effectively, no time is wasted.",1,sp21
+The fact that the final project is all about being as creative as possible and having the chance to get your hands dirty on the topic of your interest.,1,sp21
+How beginner friendly and concise the material is.,1,sp21
+"lecture and lab part, clear and understandable",1,sp21
+"I've really enjoyed learning something I've never been exposed to before, data science itself. There's definitely a learning curve of some of the more complex topics in the class, but I think it's neat how we can break down and manipulate data into more digestible formats.",1,sp21
+"I really enjoy applying the skills I learned to real data and datasets, i.e. working on the project. In other classes, we learn skills but apply them to a carefully designed assignment. However, in this class we have the opportunity to apply these skills to a project with real world data and that can be really messy and definitely not ideal, but learning to handle that mess is essential to working with data in the real world.",1,sp21
+"The lecture topics are pretty interesting, and the fact that you answer everyone's questions makes the learning easier. I like how you're a very compassionate and understanding professor.",1,sp21
+Learning about Explorative Data Analysis,1,sp21
+"I've enjoyed the hands on approach that we have been taking in our assignments and discussion labs. There's nothing wrong with theory, but it's nice to be able to apply our learning into something meaningful.",1,sp21
+"I love the content in the lecture, the kindness that the professor extends to us, and working on my project.",1,sp21
+"I really like the discussion labs so far, because they give a hands-on approach to the functionality of libraries.",1,sp21
+Data analysis using python,1,sp21
+I've quite enjoyed the labs and learned a lot of python as well as a bunch of data cleaning tricks at an approachable pace.,1,sp21
+Lots of things to keep up with every week.,0,sp21
+Going a little bit slow for students with prior experience,0,sp21
+"The weekly quizzes- sometimes, they are vague and misleading",0,sp21
+project,0,sp21
+Not sure,0,sp21
+"Having to deal with learning the syntax and commands used in pandas, seaborn, matplot, etc. was never going to be fun. Translating ideas into code can be pretty frustrating, especially when I'm dealing with a new language I never used before.",0,sp21
+I find it a bit difficult to find the information I need since there are a lot of github repos.,0,sp21
+I am a little uneasy doing a somewhat unguided/open-ended project. I feel like I have to figure out what is expected and what I should do which I understand is part of the process but it is unsettling nonetheless.,0,sp21
+Possibly need more guidance on the project in terms of data wrangling and extraction.,0,sp21
+Too much code but this is what this course is for.,0,sp21
+Some of the assignments take a bit longer than expected.,0,sp21
+"If someone procrastinates, there can be a LOT to do on Fridays.",0,sp21
+The weekly discussion labs are a little hard if there is no TA explaining it in the discussion session.,0,sp21
+Long wait time for feedback from Project Proposal. My team is kind of halting our discussions until we hear back in case we get criticism and will need to change topic/planned data/approach,0,sp21
+"The discussion labs are helpful, but it still feels like (for me at least) that there's a huge learning curve between doing discussion and the assignments. I've been having a really tough time nailing the syntax of seaborn and pandas, and whenever I ask my groupmates for help and figure out the answer, I wonder why the answer looks so obvious and I wasn't able to get it.",0,sp21
+"The quizzes. They provide a lot of stress. If they were multiple attempts with nonmuted scores, i feel like i would retain most of the information regarding past lectures.",0,sp21
+Can't think of anything at the moment,0,sp21
+There isn't anything I dislike about COGS 108 so far.,0,sp21
+I least like the discussion assignments just because it can get somewhat difficult for me.,0,sp21
+The group project is a little stressful because I feel there's a lot of uncertainty at this stage.,0,sp21
+"I think working in groups have gotten harder online because some people have a great ability to slack off more, so I think my least favorite part is my group dynamics.",0,sp21
+The assignment seem a little redundant as there are already weekly quizzes and discussions and their varied due dates make it less easy to remember what weeks an assignment is due or not.,0,sp21
+"Not being able to work on the project as much as I would like to, due mostly to other class requirements.",0,sp21
+"I have liked least the weekly quizzes, but I understand why we need to have them.",0,sp21
+Sometimes it is hard to get the basic codes for doing things and the examples are too complicated to replicate in practice. I also can never do the discussion assignment without going to the technical discussion session to get guidance.,0,sp21
+"It's sometimes hard for me to get an intuitive understanding of certain practices in class without the theoretical discussion, for example, when doing linear regression on log transformed data, why is dividing by 100 a good idea for understanding to relationship of the data without the log transformation.",0,sp21
+"I wish there are more information shared about past project, as it takes a long time for us to figure out what we wanted to do for the project.",0,sp21
+"I don't like using sns, but I guess it's fine because the graph won't look too wield even if we do it wrong in sns.",0,sp21
+"I have not liked how much work this class is giving out. Truthfully, I expected there to be less work with more time being devoted to finishing a good final project, but I am juggling working on assignments, discussion labs, and the final project for this class. This is all on top of the weekly quizzes. However, I do not think that the class should be giving out any less work because then the students would not be prepared enough to work on the final project properly.",0,sp21
+"I think the group work aspect and agreeing on datasets we all want to use was not fun. It was kind of difficult making sure that our question was doable based on what data we were able to find (we know we weren't supposed to do this, but it did help us stay realistic with what we wanted to research)",0,sp21
+"It's a bit challenging learning pandas sometimes, since documentation can be overwhelming with all the technicalities.",0,sp21
+"Nothing yet, everything has been good, but I do get lost at times with the coding.",0,sp21
+Nothing! everythings great,0,sp21
+"The group project stuff, just because nothing is set in stone.",0,sp21
+"The group project, working in groups during the pandemic has been a struggle for me, it adds to the zoom fatigue.",0,sp21
+"I don't love the project idea as much as I thought I did a week ago, although that's not specifically a COGS 108 issue. Once I'm into it a little deeper I think it will help me. Lectures are a little fast possibly, feels like it is hard to really retain all of the information even with the discussion labs. That could stem from my lack of python/programming familiarity though.",0,sp21
+nothing that sticks out to me,0,sp21
+"Maybe the quizzes. Since I am a novice on data science, I need a long time to digest the course content, and the time limit of quiz is a bit tight to complete all the questions. I hope we can get more attempts on quizzes to correct our mistakes, and I also hope the answers will be released immediately after we complete it.",0,sp21
+The Friday dues are kind of weird. My other dues are all on weekends so sometimes I may mix up the due day for this class with my other classes (like for week 5's weekly project survey).,0,sp21
+NA,0,sp21
+Nothing,0,sp21
+Nothing in particular. I'm just waiting to delve deeper into the project at this point.,0,sp21
+N/A,0,sp21
+I think what I've liked least is the discussion labs because we already have homework assignments,0,sp21
+"I haven't enjoyed the quizzes (obviously), but more importantly, the smaller random errors/bugs that are occurring in Jupyter Notebook (especially for the most recent lab).",0,sp21
+N/A,0,sp21
+I think going over some of the discussion lab in class,0,sp21
+"My least favorite part of the class has been dealing with the group dynamic. There is often poor communication and a feeling of ""not being on the same page."" The project is the most significant part of the class, and dealing with uncertainty makes the project even more stressful. Of course, group-related concerns aren't something specific to this class. They can occur in any class requiring group work.
+
+As I have said before, I will probably feel better about this once we have some tangible progress in the project.",0,sp21
+"N/A, I like everything so far about COGS108",0,sp21
+A lot of coding without too much explanation,0,sp21
+Nothing!,0,sp21
+Working in groups is difficult remotely,0,sp21
+The large number of things to turn in.,0,sp21
+"The weekly quizzes can be stressful, but I understand why they are in place. An alternative I thought of (I think we might have done this in cogs 18 but I might be misremembering) could be quizzes with a bit less questions due the next day or two after each lecture, because then the content would be more focused for each quiz.",0,sp21
+Doing quiz,0,sp21
+Everything is good.,0,sp21
+Too many homeworks quite hard to track.,0,sp21
+"Too many homework due every week, quite hard to keep tracking.",0,sp21
+"I disliked the labs as I think some of them are too complicated in the method that the TA were demonstrating to us, I think it's a bit advanced for the lecture content.",0,sp21
+The Homework of graphs are sometimes too difficult to do because there is no reference.,0,sp21
+the format of quiz-- it only allows for one attempt,0,sp21
+It would be nice if the quiz questions with multiple answers could have partial credit so our grades can better represent how much we actually know (or be split into multiple T/F questions),0,sp21
+The discussion sections can be difficult to figure out on my own at times,0,sp21
+"Weekly quizzes, I generally don't like quizzes and exams",0,sp21
+"The pace between assignments and the project deadlines, I wish we got more in class guidance and time between them.",0,sp21
+Statistics are hard,0,sp21
+"I don't like how much is due every friday, it feels a bit overwhelming. I do like the quizzes because they help me solidify my learning, but the labs can be a bit lengthy and when they are due on the same day as an assignment it is kind of rough.",0,sp21
+The quizzes,0,sp21
+N/A,0,sp21
+Getting familiar with different plotting libraries because it is a bit confusing and hard for me.,0,sp21
+I think some of the lectures aren't really attention grabbing,0,sp21
+"Probably the assignments. They're not too hard, but I get stuck sometimes.",0,sp21
+"while the assignments themselves are long (understandably), some of the language is confusing and takes me a while just to understand what it is that is being asked. Once I understand that, then executing isn't too hard.",0,sp21
+N/A,0,sp21
+"I have no real issues with the course. If I had to pick one thing to change it might be the the difficulty for an entire group to get together and discuss our project. Of course, this is more of a personal/group issue than an issue with the class itself.",0,sp21
+The assignments are sometimes a bit tough (lack of guidance in some sections),0,sp21
+"not much interaction with fellow classmates,",0,sp21
+"I think that I have not enjoyed the many different assignments that we have due at the end of each week. While I like that there is consistency with the assignments, it can sometimes get overwhelming to have so many things due on Friday. I think that the assignments are fair and representative of course material, it is just a lot to remember to do every week.",0,sp21
+"I really wish I had known more Python or worked with dataframes before taking this course. It's been a bit hard to follow and I do feel lost at times when it comes to using some of the code and having the class and lectures move quickly. I am worried about the final project as well, as I'm not yet sure how to apply some of the material in class to our own particular project. I am quite intimidated and worried that the lack of knowledge and comfortability in using Python will make this class and project much more difficult.",0,sp21
+"So far in COGS 108, the part that I have liked the least is that all of the deadlines are bundled together on Friday, which can sometimes make it feel a bit overwhelming on Fridays, when combined with other coursework. I think it would be helpful if there were two days of the week with deadlines. For instance, if the lecture quizzes and discussion labs were due on Wednesdays, and then the assignments/project portions were due on Fridays.",0,sp21
+The quizzes are kind of killer :\,0,sp21
+I actually feel the questions in lab is more difficult than the homework. I understand how to solve the homework but some of lab questions seems pretty confusing since they are not fully explained before.,0,sp21
+Some of the quiz questions can be vague.,0,sp21
+"I know that this class focuses on practices, but it would be great if more theories can be integrated.",0,sp21
+"Some of the assignments and project work feel a little bit long. I underestimated the amount of time they took me, as well as my teammates for the project work.",0,sp21
+I'm personally not a fan of the mandatory group project during this time just because I've noticed that many of my classmates (myself included) are so burnt out with everything that's been going on for the past year. It seems like people are a lot less communicative and motivated to collaborate and put in the effort to work as a team. Although I understand the value of learning to work in these types of groups.,0,sp21
+I think the pace is a bit too fast. I feel like I understood what was going on for the first couple weeks and then I got a bit lost/started feeling behind. I'm also a bit confused on how to use work on Jupyter Notebooks with GitHub like how to push/pull and commit back to GitHub. I wish the TAs were able to do a quick tutorial or if there were resources provided.,0,sp21
+"How long it takes for technical discussions to get uploaded :( I usually do the discussions early in the week and when I want to reference the technical discussions, they usually are not uploaded until Wednesday.",0,sp21
+There is kind of a lot of stuff due each week and it's difficult to keep track of. If there was a course calendar on google calendars it would be really nice.,0,sp21
+I can't think of anything that I disliked about this course up to this point!,0,sp21
+Maybe oneline teaching lack some interactions.,0,sp21
+Some labs are much more complicated than what we learned in class; we have to learn a lot of things by ourselves,0,sp21
+"The QUIZZES !! It REALLY STRESSES ME out . Although I've been attending most lectures live and staying focussed on reviewing the class materials, I've been underperforming ( 0.75/1 !!) the last 2 quizzes.",0,sp21
+"The QUIZZES !! It REALLY STRESSES ME out . Although I've been attending most lectures live and staying focussed on reviewing the class materials, I've been underperforming ( 0.75/1 !!) the last 2 quizzes.",0,sp21
+"Sometimes referencing tutorials or lecture content have been confusing, especially when I need help performing basic tasks like pulling/pushing on github and datahub and finding the steps on how to properly use git commands for our projects. It would be helpful for some kind of tutorial or separate file that focuses only on the step-by-step process of cloning, pulling, committing, and pushing in regards to our project templates on github.",0,sp21
+"I would say that I had a bit more of a difficult time learning about data wrangling, which is why this is the topic that I least liked.",0,sp21
+Doing the Discussion Labs,0,sp21
+"The thing that I like least right now is the group project, just because it seems like a daunting task. However, working in a group helps and the checkpoints also help keeps us from getting too behind.",0,sp21
+"I think what I like the least is the amount of people that was required for the project. I know all groups are required to have 3-5 people, so we are given a little more wiggle room so decide on how many there will be in the group. However, I think this requirement should go down to 3-4 people. Coordinating and working on the same document with 5 people has proven difficult. (I know this issue doesn't stem from the class structure necessarily since we are given wiggle room, it is just a suggestion! Other than that, no major concerns.)",0,sp21
+"I think there's a lot of constant deadlines aligning with each other in this class, such as Assignments, Labs, and project update",0,sp21
+The pace of the material is too fast.,0,sp21
+The quizzes,0,sp21
+A lot of the info seems to be from COGS 9,0,sp21
+"I wish the initial project proposals were submitted earlier in the quarter so that we would also receive the feedback sooner, leaving more time to make changes before the next checkpoint",0,sp21
+"I wish that lectures and the projects would line up more a bit because it just sometimes feels very scattered between assignments, discussions, lectures, and project checkpoints. Sometimes lectures feel completely different from the discussion/assignment/project portion of the class, at least so far.",0,sp21
+N/A,0,sp21
+Lectures don't really hold attention.,0,sp21
+Nagivating through the project has been a bit rough for our team. I guess we need more help from the tutor.,0,sp21
+No real problems,0,sp21
+I have least liked web searching for my data set online for the final project.,0,sp21
+Collaborating on projects as there are certain things discussed in project meetings that I have no knowledge on such as machine learning algorithms.,0,sp21
+I don't think I have anything I like the least about this class. I feel like everything has been going pretty well!,0,sp21
+i like everything,0,sp21
+"I didn't like the fact that there is no single correct solution for most problems, but I guess that's the nature of data science and I'll get used to it.",0,sp21
+I don't enjoy the group project aspect of the course since working remotely and over zoom is not ideal and leads to laziness on everyone's part.,0,sp21
+"What I like least about the class so far is how unintuitive pandas is compared to other forms of programming I have seen. While I am familiar with a number of languages, pandas has a medium-high learning curve and requires practice. That is where the D and A assignments come in handy though.",0,sp21
+"My group project. I don't feel that my group works well together, and I end up doing a lot of the work on my own. It's frustrating.",0,sp21
+"I'm not the biggest fan of the class content and it's not that related to what I want to do in the future, but that can't be helped.",0,sp21
+I think what I have liked the least about COGS 108 is how fast paced it is going during the lectures.I also don't really like how confusing the whole GitHub thing works when working with other people.,0,sp21
+The group project. It's a really great way to utilize the skills we're learning but my group members are not meshing and it's hard to work with a group that I feel I'm not connecting with. Not a class issue though!,0,sp21
+"For project, database searching is hard to find with large enough sample and relative reference when it relates to the “cold feet” science topic. It is hard to navigate the project and understand what we really need for our project especially it is my first project. My group members are data science major with a lot of experience working on the Machine learning. I feel pressure that I need more work to catch up on them. 
+For quiz, some questions are tricky like it is a multiply choice with only one right answer but the select choice buttons are like there are more than one correct choice. Also, there are always one or two abstract questions per quiz and I couldn’t get it right even though I was in lecture every time. “Language barrier ” hurts a lot since sometimes I may don’t understand some analogy in the lecture that I could infer to some hidden meaning. Ouch. Thanks for this extra credit. 
+For assignment, I feel like that some features of the function is vague or how to use the plotting or understand the method of applying those functions need more tutorials. Thanks to TA’s explanation helping me with the confusion. Discussion coding is not sufficient for the project assignment.",0,sp21
+having things on github. still don't understand how to use it,0,sp21
+"graded discussion labs, but this is for personal reasons, I'm sure that they help a lot of students.",0,sp21
+I have really enjoyed this class. I am a bit nervous for the rest of the class now that we are using more statistics.,0,sp21
+The assignments can be a little confusing and I also feel a bit rushed when taking the quizzes due to the 15 minute time limit.,0,sp21
+"What I liked least so far is hard to tell because I enjoy how organized the course is overall. Maybe sometimes having an Assignment and Discussion assignment due on the same day is a lot, but also we do get a fair amount of time on our actual assignments.",0,sp21
+"I think learning how to write the code for the result I am trying to attain is the most challenging part, since my programming background is minimal, but I would not say that I like it the least. Overall this class is very enjoyable and one of the classes I am taking that interests me the most.",0,sp21
+"I am still quite confused about the whole github and datahub operations. I understand they are common for data science major, and I will try my best to work around them.",0,sp21
+"Quiz, I need more time to figure the quiz out",0,sp21
+The thing I liked the least is how sometimes there are mistakes in the assignments which cause me some confusion over whether I am doing it right or wrong. An example is asserts not being correct.,0,sp21
+I don't enjoy the quizzes as I feel 15 minutes is too short amount of time to complete all the questions with accuracy.,0,sp21
+group work,0,sp21
+"Learning how to create graphs or parse data, sometimes there's like 3 functions inside of one and it is very confusing",0,sp21
+I think there's nothing to dislike in this course.,0,sp21
+I don't have any dislike about COGs 108,0,sp21
+Group project remote are not great...,0,sp21
+I felt a bit unsure about the project. I'm worried about getting appropriate data and doing appropriate analysis.,0,sp21
+Coding aspect as it seem like i have to google every single question on the assignment,0,sp21
+"I have liked the quizzes least because although I attend all of the lectures and take notes, and also refer back to the video recordings and slides when I take the quiz, some of the questions still confuse me.",0,sp21
+"group project, not a huge fan of working with other people in general",0,sp21
+There's a lot of moving parts at all times that are somewhat difficult for me to juggle but overall it's been pretty ok.,0,sp21
+There are a lot of assignments...,0,sp21
+I don't like how tedious the discussion labs are. Also I would have liked more help with getting started on the final project...I felt really unsure of what to do with starting the assignment,0,sp21
+I don't like the weekly quizzes because they're only 1 try and the results are muted,0,sp21
+I don't like the weekly quizzes because the results are muted and I cannot see what I need to work on until the next week.,0,sp21
+The fact that sometimes I can try a problem for hours and continue to get errors.,0,sp21
+The part I have liked least was some of the actual analysis we've done. For me its been tricky trying to figure out what is the correct way of doing it.,0,sp21
+I least like having to work on a massive group project and feeling like I don't know much about data science techniques to contribute much and having to wing everything or google things for hours.,0,sp21
+Its hard sometimes to connect what I have learned in the lectures to what I do in the assignments. At least these past two weeks trying to understand much of the stats info has been a challenge.,0,sp21
+"The project and (to a different extent) the lectures. The project is really cool but group projects are simply painful in asynchronous learning. There isn't enough substance or consistency and even with a good group (I like my group) it's hard to communicate. I like the concept of the project but even if it was executed perfectly (it's executed very well) it would still be my least favorite part because of the current nature of learning. I understand the transition from solo projects - it was too much work for each individual. But in some ways I think I might have enjoyed that. I enjoyed working on exploratory data analysis on my own in COGS 18. Regarding the lecture, it feels very educationally ""qualitative"" and not very ""quantitative."" I really enjoy the lecture but I feel like I'm not actually learning anything of substance. We jump around from topic to topic very quickly, and a lot of what we learn doesn't feel super applicable because it's very surface level. I don't want to see this class made harder, but I will say that I took COGS 109 over the summer and it was a joke. Perhaps 108 should be split into a sequence like 107a/b, and the subjects made more specific. 109 could even be replaced with the statistical/machine learning portions of 108.",0,sp21
+I think so far so good~,0,sp21
+We are using 3 different course websites with a lot of information on each so it can be a little confusing trying to find a certain thing. Sometimes there is a lot due on the same day which can be slightly overwhelming.,0,sp21
+Group collaboration. It has been very difficult to work with some people and I wish I was working on the project alone.,0,sp21
+"Learning how to use pandas and the other modules is pretty frustrating. The syntax and methods are a bit confusing, and I feel like I always have to refer to the lecture code to know how to do things.",0,sp21
+"So far, there's nothing as such that I don't like about COGS 108, maybe just the fact that the class is at 9 am in the morning.",0,sp21
+Not being able to attend an in person lecture.,0,sp21
+"Weekly quizzes, some weeks it feels like too much is due at once: discussion assignment, assignment, group assignment, and quiz. It can be overwhelming especially for those who have procrastination tendencies.",0,sp21
+"The work load is a lot bit more than I thought before, but it is still acceptable.",0,sp21
+Sometimes I need to do a lot of self-study online in order to complete the lab/assignment. It may be better if more materials will be covered in class.,0,sp21
+"Time zone difference make it hard for my group to meet. Although most of my groupmates resides in the same time zone in UTC+8, some of them live by San Diego time (taking classes at midnights and rest during the day). It's just simpler for group work to be done in physical meeting.",0,sp21
+"For the jupyter notebook assignments, it can often be difficult to come up with the right code to generate a graph/isolate a statistic. I don't know where to reference for all of the different methods and functions that I could possibly use, and what they do. I think it would be helpful to have more examples/reference guides and hints on where to look to find the methods that we need, as otherwise I get really lost and Google searches aren't always able to answer the questions I have.",0,sp21
+"I think the constant deadlines, or more so how much there is due? With COVID I've seen a spike in mini-size activities but its been super overwhelming as students because we are managing multiple classes with many deadlines. 
+Like usually on Fridays we have 3 assignments, quiz, discussion lab, project stuff/assignment. It requires us to stay on top of our stuff which can be hard at UC since it's quarter system and we often fall behind. I also have other class stuff due Friday (often math quizzes) and it's been hard managing all these because I need to get decent grades still.",0,sp21
+"The project is the hardest thing for me right now since it requires us to be accountable and work on this steadily, but with it being remote, the motivation to work on it just isn't there. Probably unavoidable, but regardless, that's what I like the least about this class right now.",0,sp21
+The quiz is too detail about the lecture sometimes I get lost,0,sp21
+Project instructions are a bit unclear at this point - I'm unsure exactly what is needed to turn in for each checkpoint assignment and how to ensure our group does not lose points.,0,sp21
+"I think that the project proposal should be ""re-evaluated"". As my group makes some changes to the project proposal based on the feedback, the score should be more reflective of our ""updated proposal"". I think that if this is not doable due to grading purpose, I hope that for the future class, there can be two grading of project proposal. First grading would weight 50%, and second grading of the revised proposal would weight the rest 50%. This way it also encourages students to learn from the feedback and make a better proposal.",0,sp21
+Lots of work :(,0,sp21
+"If I had to choose, the amount of sites that the course material/platforms is spread across. I've gotten the hang of it since, but it was pretty daunting for the first week or so especially with the other several platforms that other classes also used.",0,sp21
+"While they may not be the most difficult, the endless stream of work required for this class is tiring.",0,sp21
+The assignments can be a little long and tedious,0,sp21
+"The accessibility of lecture material can be a bit difficult to navigate sometimes. Having github as a centerpoint is good, but increased accessibility through canvas would greatly be appreciated",0,sp21
+weekly quizzes without having too much study guides since priorities are with the assignments and labs and deliverables for group projects,0,sp21
+lots of things due each week,0,sp21
+"Working with GitHub on our project has been slightly confusing, but more importantly, I feel like not everyone is utilizing it to the fullest when updating things like the checkpoints on the repo.",0,sp21
+"The quizzes, I just dislike the time pressure of taking quizzes.",0,sp21
+"Unfortunately, I have least liked the remote environment because it has left me feeling distant from the teamwork because it is ultimately me staring into a screen.",0,sp21
+"Having to take a quiz every week, it seems to be high stakes too often",0,sp21
+"It's hard to say because there isn't much I haven't enjoyed, but if I had to choose, it'd probably be the quizzes I guess? The quizzes are definitely fair, but I feel like a good change would be if they had unlimited time, but only one attempt.",0,sp21
+"Quiz, bit confused",0,sp21
+"The quizzes, I keep forgetting to do them",0,sp21
+"The assignments are what I like least about COGS 108. I do feel like it is necessary for us to learn, but it is a little time consuming and harder to learn how to code and do all the work in the assignment the same time as applying it.",0,sp21
+I don't have anything I don't like about the course. It is very well run,0,sp21
+Jupyter Notebooks,0,sp21
+"Nothing comes to mind regarding the instruction itself, but github is very difficult to navigate",0,sp21
+The fact that sometimes I can try a problem for hours and continue to get errors.,0,sp21
+Quizzes,0,sp21
+Live lecture at 9am,0,sp21
+I have least liked how there is only one chance for the lecture quizzes. I think it makes it hard to score as best as we can on it.,0,sp21
+Sometimes the quizzes are a little tricky but everything else is awesome.,0,sp21
+Assignments,0,sp21
+I think the current circumstances are making equal collaboration in the group project slightly more difficult than I thought.,0,sp21
+"Cannot come up with it. They are all good :)
+",0,sp21
+I find the group project to be tougher than I expected. Finding datasets are hard.,0,sp21
+Would like more explanation on some python concepts.,0,sp21
+"The material has been harder to grasp, but the TAs have been helpful during sections and also quick to respond through email. I am still enjoying the class.",0,sp21
+I have least enjoyed doing the assignments as the feel long and a bit tedious.,0,sp21
+nothing!,0,sp21
+I have disliked how tedious some of the data manipulation operations have been. It has been quite tedious at many points to trace calculations / draw graphs so I've found those moments to be quite frustrating.,0,sp21
+"The Quizzes. I'd rather I have one short quiz for each lecture, than 1 where I have to review all the lectures before just to remember the details.",0,sp21
+The ability to get together with my group mates during this online learning.,0,sp21
+The quizzes because I am generally not good at doing quizzes.,0,sp21
+project guidelines unclear due to individual difference,0,sp21
+"9am is still too early for me for some reason, probably senioritis settling in",0,sp21
+Can't think of anything,0,sp21
+"I don't really have a ""least"" liked in this class because I feel like all the parts are essential for my learning.",0,sp21
+"Beyond things due to COVID that is out of your team's hands, I enjoy discussion where there is a few same people even if the sizes are smaller. The technical and project discussions are still good though.",0,sp21
+None,0,sp21
+I don't really have any complaints so far. The class has been enjoyable.,0,sp21
+"i am a almost graduating dsc major so i think i am a little advanced for the class, but perhaps it could move a bit faster over the rudimentary python and pandas parts, since so many students already have experience with it",0,sp21
+all the new overwhelming programming stuff that we have to sort of learn on our own.,0,sp21
+Quizzes - Stress over the final project,0,sp21
+"The quizzes sometimes require you to be present at the lecture to know the answer to, and it is tough for me to attend it.",0,sp21
+A lot of the projects we want to do are limited by the skills that we have so we rely on outside libraries that serve as a blackbox for what we do.,0,sp21
+"It can be a bit hard to work in a group with people of very different levels of experience with python, git, etc.",0,sp21
+"To be honest, the class has been going pretty great! The assignments and lectures really help for the project, and I appreciate all the support from the TAs and IAs. The checkpoints have also helped us stay on track with the project.",0,sp21
+I haven't enjoyed getting used to GitHub but I know I will be grateful in the future.,0,sp21
+"Groupwork I usually love, but it is a bit saddening to sort of struggle with motivating the rest of the group to keep working. I am excited to see what the end product will be but simultaneously terrified.",0,sp21
+"This has nothing to do with anything the professor/TA is doing but I dislike that I have to take this class online. It would be nice to converse with my groupmates and engage better with the material. I also dislike taking the weekly quizzes, but I know that they are necessary as I would definitely fall behind without them!",0,sp21
+having to work with github because it is confusing,0,sp21
+I prefer individual project than group project.,0,sp21
+I feel as though my grasp of datasets and research were expected to be higher than what I was ready to use for this class. The statistics classes Ive taken were never hands on with data so though i took the class before its harder to relate the research terms to the project demands.,0,sp21
+Weekly quizzes. They don't feel helpful and it is difficult to find answers in the slides if you don't remember something.,0,sp21
+Its a little tedious at times especially this past D5,0,sp21
+I'm not always comfortable with coding,0,sp21
+None so far,0,sp21
+Assignments,0,sp21
+"assigment and project, hard to find data and analyze",0,sp21
+"The class can definitely be challenging at times. I think the hardest part is having so many things due every Friday. Not that I'd expect that to be any different, it's just difficult at times. At the same time, it's better than having multiple things spread out throughout the week.",0,sp21
+"My least favorite part of COGS 108 has been the process of learning pandas. Although I have experience programming, pandas has been slightly annoying to learn since it seems like there are many different ways to do the same simple thing. It also sometimes seems like it takes many methods to do something that seems like it should be very simple and possible with one method. However, the notes and discussion labs have definitely helped along with the pandas documentation. As the class has gone on, I have progressively become more comfortable with pandas and am starting to like it a bit more.",0,sp21
+"Attending online lecture is hard, but it's not your fault.",0,sp21
+Not being able to go in person,0,sp21
+I can't say that there's bad about this course.,0,sp21
+"Aside from the lecture time, which can't be helped, I don't really dislike anything so far.",0,sp21
+"I don't think this is really an issue at all, but I personally would've liked a little more of a structured format in terms of picking the actual project topics (like broad areas/verticals on different aspects of society, like recreational things like music or sports to more serious topics like poverty, health, etc.), as opposed to giving complete freedom over topics. The ""topics"" don't necessarily need to be specific things, but I think that giving broad ""verticals"" that students can look over beforehand (as opposed to just the previous project review) would be a little helpful, especially since agreeing on a topic that has no ""bounds"" with 4-5 members can be difficult. Again, the current setup of the class is okay, but this is just something I felt would be helpful to some students.",0,sp21
+Nothing in particular,0,sp21
+"It has been hard making it to lectures in the morning but that is more of a personal issue. My group has also been having a lot of trouble working on the final project because we had to change our topic severla times and each time we would start writing out the proposal trying to figure out some sort of main question and then we later realize that the data is either non accurate, missing, or not feasible in some other way. So it has been somewhat hard trying to figure that out",0,sp21
